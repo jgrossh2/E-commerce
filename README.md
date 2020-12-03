@@ -10,7 +10,7 @@ E-commerce was created in order to keep track of data for an internet retail sit
 ## Installation
     Node, MYSQL2, dotenv, express, sequelize
 ## Usage
-    For personal use, to set up run source schema.sql in mysql, npm run seed in terminal, then run "node server.js" in the command line to begin application. To test functionality, please use Insomnia Core.
+    For personal use, to set up run "source schema.sql" in mysql, "npm run seed" in terminal, then run "node server.js" in the command line to begin application. To test functionality, please use Insomnia Core.
 ## License
     none
 ## Contributors
